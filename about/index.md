@@ -2,11 +2,11 @@
 layout: page
 title: About the Theme
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2017-12-23
 comments: false
 ---
     
-<center><a href="http://tsevans.github.io"><b>Thomas Evans</b></a> , this is my website.</center>
+<center><a href="http://pdobrenz.github.io"><b>Phillip Dobrenz</b></a> , this is my website.</center>
 
 ## Features
 * Minimal, you can focus on your content

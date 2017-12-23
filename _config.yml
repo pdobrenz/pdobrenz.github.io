@@ -1,14 +1,14 @@
 # Site
-title:              Thomas Evans
-bio:                'Finishing up my Computer Science degree at Virginia Tech.'
-description:        "Finishing up my Computer Science degree at Virginia Tech."
+title:              Phillip Dobrenz
+bio:                'Mechanical Engineering student at Virginia Tech.'
+description:        "Mechanical Engineering student at Virginia Tech."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://tsevans.github.io
+url:                https://pdobrenz.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   tsevans
+disqus_shortname:   pdobrenz
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,14 +37,14 @@ disqus_shortname:   tsevans
   #ad-client:
   #ad-slot:
 #bing-verify:
-email: tsevans@vt.edu
+email: dphil96@vt.edu
 #twitter:            username
 #facebook:           username
-github-url:         tsevans
-stackoverflow:      7201889/thomas-evans
-linkedin:           tsevanscs
+github-url:         pdobrenz
+#stackoverflow:      7201889/thomas-evans
+#linkedin:           tsevanscs
 #xing:              username
-instagram:          ts_evans
+#instagram:          ts_evans
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
